@@ -1,1 +1,13 @@
 # 1028_kamiyama_study
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>HTMLテストページ</title>
+</head>
+<body>
+  <h1>初めてのHTMLテスト</h1>
+  <p>これはHTMLのテストページです。</p>
+</body>
+</html>
